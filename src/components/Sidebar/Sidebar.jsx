@@ -49,7 +49,7 @@ const Sidebar = () => {
     >
 
         <Flex direction={"column"} gap={10} w="full" height={"full"}>
-            <Link to={"/"} as={RouterLink} pl={2} display={{base:"none", md:"block"}} cursor={"pointer"}>
+            <Link to={"/"} as={RouterLink} pl={2} display={{base:"none", md:"block"}} cursor="pointer">
                 <InstagramLogo />
             </Link>
             <Link to={"/"} as={RouterLink} p={2} display={{base:"none", md:"block"}} 
@@ -58,11 +58,11 @@ const Sidebar = () => {
                     bg:"whiteAlpha.200"
                 }}
                 w={10}
-                cursor={"pointer"}
+                cursor="pointer"
             >
                 <InstagramMobileLogo />
             </Link>
-            <Flex direction={"column"} gap={5} cursor={"pointer"}>
+             <Flex direction={"column"} gap={5} cursor="pointer">
                 {sidebarItems.map((item, index) => (
                     <Tooltip
                         key={index}
@@ -79,13 +79,13 @@ const Sidebar = () => {
                          as={RouterLink}
                          alignContent={"center"}
                          gap={4}
-                         _hover={{bg:"whiteAlpha.400"}}
+                         _hover={{ bg:"whiteAlpha.400" }}
                          borderRadius={6}
                          p={2}
-                         w={{base:10, md:"full"}}
+                         w={{ base:10, md: "full"}}
                          justifyContent={{base:"center", md:"flex-start"}}
                     >
-                    <item.icon />
+                    {item.icon}
                     <Box display={{base:"none", md:"block"}}>
                         {item.text}
                     </Box>
