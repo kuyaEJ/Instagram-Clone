@@ -8,13 +8,13 @@
       "name": "instagram",
       "version": "0.0.0",
       "dependencies": {
-        "@chakra-ui/react": "^3.19.1",
+        "@chakra-ui/react": "^3.19.2",
         "@emotion/react": "^11.14.0",
         "next-themes": "^0.4.6",
         "react": "^19.1.0",
         "react-dom": "^19.1.0",
         "react-icons": "^5.5.0",
-        "react-router-dom": "^7.6.1"
+        "react-router-dom": "^7.6.2"
       },
       "devDependencies": {
         "@eslint/js": "^9.25.0",
@@ -394,9 +394,9 @@
       }
     },
     "node_modules/@chakra-ui/react": {
-      "version": "3.19.1",
-      "resolved": "https://registry.npmjs.org/@chakra-ui/react/-/react-3.19.1.tgz",
-      "integrity": "sha512-NxmJUIxy9Uqs2/2WbMBQjU2TdK2AdCO1AfoMz/kI3ia4ig1FJ5NzXRGSEnTGrdOfrqL8GJp4ztbPfc4yspqWsQ==",
+      "version": "3.19.2",
+      "resolved": "https://registry.npmjs.org/@chakra-ui/react/-/react-3.19.2.tgz",
+      "integrity": "sha512-ZQfYXQ20ftR1U8kdwDxqx4qk8+8y9RcReb2heptAFD6IBnTg2dOylfjS7Qj2WF7mkPHnWd0W1/FUWDjJD1OgVQ==",
       "license": "MIT",
       "dependencies": {
         "@ark-ui/react": "5.9.1",
@@ -3784,9 +3784,9 @@
       }
     },
     "node_modules/react-router": {
-      "version": "7.6.1",
-      "resolved": "https://registry.npmjs.org/react-router/-/react-router-7.6.1.tgz",
-      "integrity": "sha512-hPJXXxHJZEsPFNVbtATH7+MMX43UDeOauz+EAU4cgqTn7ojdI9qQORqS8Z0qmDlL1TclO/6jLRYUEtbWidtdHQ==",
+      "version": "7.6.2",
+      "resolved": "https://registry.npmjs.org/react-router/-/react-router-7.6.2.tgz",
+      "integrity": "sha512-U7Nv3y+bMimgWjhlT5CRdzHPu2/KVmqPwKUCChW8en5P3znxUqwlYFlbmyj8Rgp1SF6zs5X4+77kBVknkg6a0w==",
       "license": "MIT",
       "dependencies": {
         "cookie": "^1.0.1",
@@ -3806,12 +3806,12 @@
       }
     },
     "node_modules/react-router-dom": {
-      "version": "7.6.1",
-      "resolved": "https://registry.npmjs.org/react-router-dom/-/react-router-dom-7.6.1.tgz",
-      "integrity": "sha512-vxU7ei//UfPYQ3iZvHuO1D/5fX3/JOqhNTbRR+WjSBWxf9bIvpWK+ftjmdfJHzPOuMQKe2fiEdG+dZX6E8uUpA==",
+      "version": "7.6.2",
+      "resolved": "https://registry.npmjs.org/react-router-dom/-/react-router-dom-7.6.2.tgz",
+      "integrity": "sha512-Q8zb6VlTbdYKK5JJBLQEN06oTUa/RAbG/oQS1auK1I0TbJOXktqm+QENEVJU6QvWynlXPRBXI3fiOQcSEA78rA==",
       "license": "MIT",
       "dependencies": {
-        "react-router": "7.6.1"
+        "react-router": "7.6.2"
       },
       "engines": {
         "node": ">=20.0.0"
