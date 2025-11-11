@@ -1,4 +1,5 @@
-# Instagram Clone: A Full-Stack React & Firebase Application
+# A Full-Stack React & Firebase Application
+### Instagram-Clone
 This project is a high-fidelity clone of the core features of the Instagram platform, built to demonstrate proficiency in modern full-stack development using the MERN-adjacent stack.
 
 The primary focus of this application is to showcase experience with **React hooks, state management, and seamless integration with Google's Firebase backend services.**
