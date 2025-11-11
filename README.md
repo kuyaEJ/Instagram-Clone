@@ -44,7 +44,7 @@ Before you begin, ensure you have the following installed:
 Follow these simple steps to clone the repository and run the project locally:
 1. **Open terminal or command prompt**<br/><br/>
 2. **Clone** the git repository into the folder with<br/><br/>
-   `git clone [repository llnk here]`<br/><br/>
+   `git clone [repository link here]`<br/><br/>
 3. **Navigate** into the project directory:<br/><br/>
    `cd Instagram-Clone`<br/><br/>
 4. **Install dependencies** using npm:<br/><br/>
