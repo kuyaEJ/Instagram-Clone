@@ -61,4 +61,4 @@ The application should now be accessible in your web browser, typically at **`ht
 <br/><br/><br/><br/>
 
 
-![Go to Top](#Instagram-Clone-A-Full-Stack-React-&-Firebase-Application)
+[Go to Top](#Instagram-Clone-A-Full-Stack-React-&-Firebase-Application)
