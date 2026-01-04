@@ -46,11 +46,11 @@ Follow these simple steps to clone the repository and run the project locally:
    ```git
    cd Instagram-Clone
    ```
-5. **Install dependencies** using npm:
+4. **Install dependencies** using npm:
     ```git
     npm install
     ```
-6. **Run the project** in development mode:
+5. **Run the project** in development mode:
     ```git
     npm run dev
     ```
